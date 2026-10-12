@@ -112,3 +112,10 @@ sau skill install
 *   The `conf.example.py` file should be copied to `conf.py` and configured with the appropriate settings.
 *   The `requirements.txt` file lists the Python dependencies.
 *   The `package.json` file in the `sau_frontend` directory lists the frontend dependencies.
+
+
+<!-- account-ai-delivery-standard:start -->
+## 账号统一交付标准引用
+
+开始任务前，读取本仓库 [AGENTS.md](AGENTS.md) 中的“账号统一交付标准”及其链接正文；本文件已有规则保留。规则冲突时报告并停止相关动作，不静默覆盖。
+<!-- account-ai-delivery-standard:end -->
